@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on P</title>
+    <link>https://hongsenliu.github.io/8777/tags/</link>
+    <description>Recent content in Tags on P</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Aug 2020 00:19:22 +0800</lastBuildDate>
+    
+	<atom:link href="https://hongsenliu.github.io/8777/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>newspapers</title>
+      <link>https://hongsenliu.github.io/8777/tags/newspapers/</link>
+      <pubDate>Tue, 18 Aug 2020 00:19:22 +0800</pubDate>
+      
+      <guid>https://hongsenliu.github.io/8777/tags/newspapers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agree/disagree</title>
+      <link>https://hongsenliu.github.io/8777/tags/agree/disagree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hongsenliu.github.io/8777/tags/agree/disagree/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
